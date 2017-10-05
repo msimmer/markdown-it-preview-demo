@@ -1,6 +1,6 @@
 # `markdown-it-preview-demo`
 
-This is a proof of concept for the  [`markdown-it-preview`](https://github.com/msimmer/markdown-it-preview.git) [Atom](https://atom.io/) package.
+This is a proof of concept for the  [`markdown-it-preview`](https://atom.io/packages/markdown-it-preview) [Atom](https://atom.io/) package.
 
 ## Install
 
