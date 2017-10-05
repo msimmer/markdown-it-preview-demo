@@ -1,6 +1,6 @@
 # `markdown-it-preview-demo`
 
-This is a proof of concept for the  [`markdown-it-preview`](https://github.com/msimmer/markdown-preview.git) [Atom](https://atom.io/) package.
+This is a proof of concept for the  [`markdown-it-preview`](https://github.com/msimmer/markdown-it-preview.git) [Atom](https://atom.io/) package.
 
 ## Install
 
@@ -10,7 +10,7 @@ Make sure the `markdown-it-preview` package is installed and enabled in Atom set
 $ npm i
 ```
 
-Open `test.md` in Atom and press <kbd>CTRL</kbd> + <kbd>SHIFT</kbd>  + <kbd>M</kbd>.
+Open `test.md` in Atom and toggle the previewer with <kbd>CTRL-SHIFT-M</kbd>.
 
 ## Extend
 
