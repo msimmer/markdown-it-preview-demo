@@ -10,7 +10,7 @@ Make sure the `markdown-it-preview` package is installed and enabled in Atom set
 $ npm i
 ```
 
-Open `test.md` in Atom and toggle the previewer with <kbd>CTRL-SHIFT-M</kbd>.
+Open the files in `tests/` and preview them in Atom with <kbd>CTRL-SHIFT-M</kbd>.
 
 ## Extend
 
