@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-preview-demo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Demo repo for the markdown-it-preview Atom package.",
   "repository": "https://github.com/msimmer/markdown-it-preview-demo.git",
   "main": "index.js",
