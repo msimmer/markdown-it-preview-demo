@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-preview-demo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Demo repo for the markdown-it-preview Atom package.",
   "repository": "https://github.com/msimmer/markdown-it-preview-demo.git",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "d3-node": "^1.1.1",
+    "markdown-it-container": "^2.0.0",
     "markdown-it-emoji": "^1.4.0",
     "markdown-it-for-inline": "^0.1.1",
     "markdown-it-mathjax": "^2.0.0",
