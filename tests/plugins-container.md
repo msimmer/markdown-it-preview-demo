@@ -28,3 +28,7 @@ module.exports = {
 ::: spoiler
 *here be dragons*
 :::
+
+## Screenshot
+
+![container](../.github/container.jpg)
