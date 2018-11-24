@@ -11,7 +11,7 @@
   "author": "Maxwell Simmer <maxwell.simmer@gmail.com> (http://maxwellsimmer.com)",
   "license": "MIT",
   "dependencies": {
-    "d3-node": "^1.1.1",
+    "d3-node": "^1.1.3",
     "markdown-it-container": "^2.0.0",
     "markdown-it-emoji": "^1.4.0",
     "markdown-it-for-inline": "^0.1.1",
